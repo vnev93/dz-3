@@ -1,0 +1,25 @@
+<student>
+  <student_id>123456</student_id>
+  <name>Michael Scott</name>
+  <age>20</age>
+  <grade>Junior</grade>
+  <courses>
+    <course>
+      <course_id>ENG101</course_id>
+      <course_name>English Composition</course_name>
+      <instructor>Dr. Smith</instructor>
+      <credits>3</credits>
+      <grade>A</grade>
+    </course>
+  </courses>
+  <phoneNumbers>
+    <phoneNumber>
+      <type>home</type>
+      <number>322-14-18</number>
+    </phoneNumber>
+    <phoneNumber>
+      <type>mobile</type>
+      <number>922-431-12-17</number>
+    </phoneNumber>
+  </phoneNumbers>
+</student>

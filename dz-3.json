@@ -1,0 +1,24 @@
+{
+  "student_id": "123456",
+  "name": "Michael Scott",
+  "age": 20,
+  "grade": "Junior",
+  "courses": [
+    {
+      "course_id": "ENG101",
+      "course_name": "English Composition",
+      "instructor": "Dr. Smith",
+      "credits": 3,
+      "grade": "A"
+    },
+  "phoneNumbers":[
+    {
+       "type": "home",
+       "number":"322-14-18"
+    },
+    {
+       "type": "mobile",
+       "number": "922-431-12-17"
+    }
+   ]
+ }
